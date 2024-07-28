@@ -116,9 +116,7 @@ For more inference scrpts of other models, please visit the model card of the hu
 
 ## LICENSE
 
-The code in this repository is open source under the [CC BY-NC 4.0 license](./LICENSE).
-
-
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
 
 ## Citations
 
